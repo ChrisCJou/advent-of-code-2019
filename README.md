@@ -1,2 +1,4 @@
 # advent-of-code-2019
-i'm attempting to learn rust so i thought this might be a good way to start https://adventofcode.com/
+I'm attempting to learn rustlang so i thought this might be a good way to start, so most of not all of this code will be very janky.
+
+See https://adventofcode.com/ for more details about the challenges!
